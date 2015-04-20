@@ -9,6 +9,9 @@ class Inside_two
    CONST = ' inside two'
    def where_is_my_CONST
       CONST
+      puts "dfjsdjfs"
+      puts "some junk"
+
    end
 end
 puts Inside_one.new.where_is_my_CONST
