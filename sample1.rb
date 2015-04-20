@@ -6,5 +6,6 @@ class sample1
     puts "Hi! #{name}"           # interpolates the string, replaces name with its value
     puts "Rohan"
     puts "Swati"
+    puts "James Bond"
   end
 end
