@@ -5,5 +5,6 @@ class sample1
     name = gets.chomp            # read from stdin
     puts "Hi! #{name}"           # interpolates the string, replaces name with its value
     puts "Rohan"
+    puts "Swati"
   end
 end
